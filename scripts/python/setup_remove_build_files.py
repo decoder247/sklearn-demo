@@ -1,0 +1,3 @@
+from python_utils_general.utils_setuptools import remove_build_files
+
+remove_build_files()

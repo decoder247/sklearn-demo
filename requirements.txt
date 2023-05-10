@@ -1,0 +1,6 @@
+notebook
+pandas # includes numpy
+scikit-learn # inlcudes scipy
+imbalanced-learn
+seaborn # Data visualisation. Requires matplotlib, pandas, numpy
+xgboost

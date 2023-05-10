@@ -1,0 +1,15 @@
+# Macos
+.DS_Store
+
+# VS code
+.vscode/
+
+# Python - https://github.com/github/gitignore/blob/main/Python.gitignore
+dist/
+build/
+__pycache__/
+.ipynb_checkpoints
+.ipynb_checkpoints/
+*.egg-info/
+venv/
+.venv
