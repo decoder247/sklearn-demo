@@ -8,3 +8,7 @@ py-clean:
 py-install:
 	@bash -c "source ./scripts/python/activate_env.sh && \
 	pip install -r requirements.txt"
+
+run:
+	@bash -c "source ./scripts/python/activate_env.sh && \
+	python -u src/example_sklearn.py"
