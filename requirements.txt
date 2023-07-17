@@ -1,4 +1,3 @@
-notebook
 pandas # includes numpy
 scikit-learn # inlcudes scipy
 imbalanced-learn
@@ -7,3 +6,6 @@ xgboost
 
 # vscode
 black
+
+# notebook
+jupyter
